@@ -14,7 +14,7 @@ A simple Python module for checking whether a number is a prime. It includes two
 You can clone the repository and import the module into your Python project:
 
 ```bash
-git clone https://github.com/your-username/PrimeNum.git
+git clone https://github.com/MeTOO98/Prime_Number_Module.git
 ```
 
 Then, import the module in your Python script:
